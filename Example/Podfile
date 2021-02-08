@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'UselessValidatorPod_Example' do
+  pod 'UselessValidatorPod', :path => '../'
+
+  target 'UselessValidatorPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
