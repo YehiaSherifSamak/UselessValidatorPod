@@ -1,0 +1,22 @@
+{
+  "name": "UselessValidatorPod",
+  "version": "0.1.0",
+  "summary": "A short description of UselessValidatorPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/YehiaSherifSamak/UselessValidatorPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "YehiaSherifSamak": "mostafa.mohsen@softxpert.com"
+  },
+  "source": {
+    "git": "https://github.com/YehiaSherifSamak/UselessValidatorPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "UselessValidatorPod/Classes/**/*"
+}

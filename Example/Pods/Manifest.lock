@@ -1,0 +1,16 @@
+PODS:
+  - UselessValidatorPod (0.1.0)
+
+DEPENDENCIES:
+  - UselessValidatorPod (from `../`)
+
+EXTERNAL SOURCES:
+  UselessValidatorPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UselessValidatorPod: de89f63d5537707865fbd27b6a016ff86bdc49f9
+
+PODFILE CHECKSUM: e4b1cd5347e503174685aaf6e17c14f56060908f
+
+COCOAPODS: 1.9.3

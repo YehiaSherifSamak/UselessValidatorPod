@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'UselessValidatorPod'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of UselessValidatorPod.'
+  s.summary          = 'email and password validator and make images circles'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/YehiaSherifSamak/UselessValidatorPod'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'YehiaSherifSamak' => 'mostafa.mohsen@softxpert.com' }
+  s.author           = { 'YehiaSherifSamak' => 'ysamak17@gmail.com' }
   s.source           = { :git => 'https://github.com/YehiaSherifSamak/UselessValidatorPod.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
@@ -37,6 +37,7 @@ TODO: Add long description of the pod here.
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
+  s.frameworks = 'UIKit'
   # s.dependency 'AFNetworking', '~> 2.3'
+  s.swift_version = "4.2"
 end

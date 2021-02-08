@@ -1,0 +1,6 @@
+framework module UselessValidatorPod {
+  umbrella header "UselessValidatorPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
